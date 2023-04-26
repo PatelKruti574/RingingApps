@@ -1,11 +1,11 @@
 {
-"STATUS":false,
+"STATUS":true,
    "MSG":"",
-   "onback_adshow":"",
+   "onback_adshow":"1",
    "APP_SETTINGS":{
       "app_privacyPolicyLink":"",
-      "app_adShowStatus":"",
-       "applovin_fberrorshow":""
+      "app_adShowStatus":"1",
+       "applovin_fberrorshow":"1"
    },
    "PLACEMENT":{
       "Admob":{
@@ -18,7 +18,7 @@
           "AppOpen1":" "
       },
       "Facebookaudiencenetwork":{
-         "ad_showAdStatus":"",
+         "ad_showAdStatus":"1",
          "Banner1":"IMG_16_9_APP_INSTALL#3011693982286504_3122146901241211",
          "Interstitial1":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
          "Interstitial2":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
